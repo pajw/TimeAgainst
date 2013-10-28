@@ -1,0 +1,10 @@
+C:\Code\Emerge\Time Keeper\Time Keeper\bin\Debug\Time Against.exe.config
+C:\Code\Emerge\Time Keeper\Time Keeper\bin\Debug\Time Against.exe
+C:\Code\Emerge\Time Keeper\Time Keeper\bin\Debug\Time Against.pdb
+C:\Code\Emerge\Time Keeper\Time Keeper\bin\Debug\Time Against.xml
+C:\Code\Emerge\Time Keeper\Time Keeper\obj\Debug\Time_Against.mainMenu.resources
+C:\Code\Emerge\Time Keeper\Time Keeper\obj\Debug\Time_Against.Resources.resources
+C:\Code\Emerge\Time Keeper\Time Keeper\obj\Debug\Time Against.vbproj.GenerateResource.Cache
+C:\Code\Emerge\Time Keeper\Time Keeper\obj\Debug\Time Against.exe
+C:\Code\Emerge\Time Keeper\Time Keeper\obj\Debug\Time Against.xml
+C:\Code\Emerge\Time Keeper\Time Keeper\obj\Debug\Time Against.pdb
